@@ -1,0 +1,263 @@
+.nav-link {
+    color: #fff!important;
+}
+
+.banner-image-container {
+    background-image: url('../images/1.jpg');
+    height: 40vh;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.content-container {
+    height: 100%;
+    width: 100%;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.7); 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;  
+}
+
+.banner-heading {
+    color: #fff;
+    font-family: Roboto;
+    text-align: center;
+}
+
+
+.banner-description {
+    color: #fff;
+    font-family: Roboto;
+    text-align: center;
+}
+
+.normal-text {
+    font-weight: normal!important;
+}
+
+.services-section {
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.services-section-heading-container {
+    border: 3px solid greenyellow;
+    padding: 15px 30px;
+}
+
+.services-section-heading {
+    color: #000;
+    box-shadow: 0px 4px 16px 0px #bfbfbf;
+    font-size: 25px;
+    font-weight: 400;
+    padding: 10px;
+    margin-bottom: -30px;
+    background-color: #fff;
+    z-index: 99;
+}
+
+.services-bg {
+    background-image: url('../images/services-bg.webp');
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 35px;
+    padding: 50px 20px ;
+    
+}
+
+.services-title {
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.4); 
+    padding: 10px;
+    font-size: 12px;
+}
+
+.bold-text {
+    font-weight: bold;
+}
+
+.our-passion-container {
+    background-image: url('../images/2.jpg');
+    background-size: cover;
+    margin-top: 15px;
+    margin: 15px;
+    padding: 50px;
+}
+
+.our-passion-content-container {
+    background-color: #fff;
+    box-shadow: 0px 4px 16px 0px #bfbfbf;
+    text-align: center;
+    padding: 15px 10px;
+}
+
+.our-passion-heading {
+    font-size: 17px;
+}
+
+.our-passion-description {
+    font-size: 15px;
+}
+
+
+.how-works-container {
+    background-image: url('../images/2.jpg');
+    background-size: cover;
+    margin-top: 15px;
+    margin: 15px;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.how-works-border {
+    border: 1px solid greenyellow;
+    padding: 10px;
+
+}
+
+.how-works-content-container {
+    background-color: #fff;
+    box-shadow: 0px 4px 16px 0px #bfbfbf;
+    text-align: center;
+    padding: 15px 10px;
+}
+
+.how-works-heading {
+    font-size: 17px;
+}
+
+.how-works-description {
+    font-size: 15px;
+}
+
+.how-works-btn {
+    background-color: greenyellow;
+    opacity: 0.8;
+    margin-top: 20px;
+    color: #fff;
+    height: 35px;
+    width: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    outline: none;
+}
+
+.how-works-btn:hover {
+    text-decoration: none;
+    color: #fff;
+}
+
+.focus-container {
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.focus-section-heading-container {
+    border: 3px solid greenyellow;
+    padding: 15px 50px;
+}
+
+.focus-section-heading {
+    color: #000;
+    box-shadow: 0px 4px 16px 0px #bfbfbf;
+    font-size: 25px;
+    font-weight: 400;
+    padding: 10px;
+    margin-bottom: -30px;
+    background-color: #fff;
+    z-index: 99;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.focus-content-bg {
+    background-image: url('../images/services-bg.webp');
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 35px;
+    padding: 50px 20px ;
+}
+
+.focus-title {
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.4); 
+    padding: 10px;
+    font-size: 13px;
+}
+
+.focus-desc {
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.4); 
+    padding: 10px;
+    font-size: 10px;
+}
+
+
+.quote-container {
+    background-image: url('../images/2.jpg');
+    background-size: cover;
+    margin-top: 15px;
+    margin: 15px;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.quote-border {
+    border: 1px solid greenyellow;
+    padding: 10px;
+
+}
+
+.quote-content-container {
+    background-color: greenyellow;
+    box-shadow: 0px 4px 16px 0px #bfbfbf;
+    text-align: center;
+    padding: 15px 10px;
+}
+
+.quote-heading {
+    font-size: 17px;
+    color: #fff;
+}
+
+
+.quote-author {
+    font-size: 14px;
+    color: #fff;
+}
